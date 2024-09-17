@@ -3,7 +3,7 @@
 sources:
   - name: jaffle_project
     database: dbt
-    schema: snowfalke 
+    schema: snowflake 
     tables:
      - name: raw_customers
      - name: raw_orders
