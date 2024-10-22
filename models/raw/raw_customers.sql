@@ -1,1 +1,1 @@
-    select * from  {{ source('jaffle_project', 'raw_customers') }} 
+    select * from  {{ source('jaffle_project', 'customers') }} 

@@ -2,9 +2,9 @@
 
 sources:
   - name: jaffle_project
-    database: dbt
-    schema: snowflake 
+    database: PDP_DATA_SCIENCE_DEV_VALIDATION
+    schema: data 
     tables:
-     - name: raw_customers
-     - name: raw_orders
-     - name: raw_payments
+     - name: customers
+     - name: orders
+     - name: payments

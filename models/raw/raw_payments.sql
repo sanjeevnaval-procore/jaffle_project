@@ -1,1 +1,1 @@
-    select * from  {{ source('jaffle_project', 'raw_payments') }} 
+    select * from  {{ source('jaffle_project', 'payments') }} 
