@@ -1,0 +1,12 @@
+ version: 2 
+
+sources:
+  - name: mart_source
+    database: PDP_DATA_SCIENCE_DEV_VALIDATION
+    schema: mart 
+    tables:
+     - name: customers
+     - name: orders
+
+
+

@@ -1,0 +1,1 @@
+{{ null_check('customers') }}

@@ -41,3 +41,6 @@ models:
     mart:
       +materialized: table
       +schema: mart  
+    ground_truth:
+      +materialized: table
+      +schema: mart   

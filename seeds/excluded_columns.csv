@@ -1,0 +1,8 @@
+excluded_column,table_name
+order_id,orders
+customer_id,orders
+order_date,orders
+status,orders
+customer_id,customers
+first_name,customers
+last_name,customers
